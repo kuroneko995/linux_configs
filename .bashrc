@@ -113,3 +113,5 @@ fi
 
 # Allow editing of command using vim                                                                                                                 
 set -o vi
+
+bind '"\t":menu-complete'
